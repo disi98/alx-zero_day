@@ -1,1 +1,1 @@
-**Getting the khow on git**
+**Getting  the khow on git**
